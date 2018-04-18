@@ -1,0 +1,17 @@
+{
+    "name":     "Washington",
+    "state":    "DC",
+    "high":     {
+        "avg":  19.5,
+        "std":  4.5
+    },
+    "low":      {
+        "avg":  3.3,
+        "std":  5.5
+    },
+    "precip":   {
+        "yamt": 545.0,
+        "std":  10.0,
+        "days": 65.0
+    }
+}
